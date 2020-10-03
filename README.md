@@ -1,1 +1,3 @@
-# dot_X
+# X dotfiles
+
+My settings for Xorg.
